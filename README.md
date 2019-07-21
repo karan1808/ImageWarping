@@ -12,4 +12,4 @@ We can increase our FPS by as much as 379% due to reduction in latency.
 
 In order to accomplish this FPS increase/latency decrease, we have moved the reading of frames from a webcam or USB device to an entirely different thread, totally separate from our main Python script.
 
-For a detailed explanation please refer: https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/
+For a detailed explanation please refer:https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/
